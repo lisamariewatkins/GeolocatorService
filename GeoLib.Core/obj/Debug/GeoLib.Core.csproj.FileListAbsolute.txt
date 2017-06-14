@@ -1,0 +1,12 @@
+C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Core\bin\Debug\GeoLib.Core.dll.config
+C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Core\bin\Debug\GeoLib.Core.dll
+C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Core\bin\Debug\GeoLib.Core.pdb
+C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Core\bin\Debug\EntityFramework.dll
+C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Core\bin\Debug\Moq.dll
+C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Core\bin\Debug\EntityFramework.xml
+C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Core\bin\Debug\Moq.xml
+C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Core\obj\Debug\GeoLib.Core.csprojResolveAssemblyReference.cache
+C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Core\obj\Debug\GeoLib.Core.dll
+C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Core\obj\Debug\GeoLib.Core.pdb
