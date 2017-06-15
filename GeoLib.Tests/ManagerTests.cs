@@ -106,9 +106,16 @@ namespace GeoLib.Tests
                 State = new State() { Abbreviation = "CA" },
                 Zip = "94105"
             };
+            ZipCode zipCode3 = new ZipCode()
+            {
+                City = "SAN ANTONIO",
+                State = new State() { Abbreviation = "TX" },
+                Zip = "78758"
+            };
 
             zipList.Add(zipCode);
             zipList.Add(zipCode2);
+            zipList.Add(zipCode3);
 
             int range = 1;
 

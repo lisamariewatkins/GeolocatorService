@@ -2,6 +2,6 @@ C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Contracts\bin\Debug\Geo
 C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Contracts\bin\Debug\GeoLib.Contracts.pdb
 C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Contracts\bin\Debug\Moq.dll
 C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Contracts\bin\Debug\Moq.xml
-C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.csprojResolveAssemblyReference.cache
 C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.dll
 C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.pdb
+C:\Users\lisa.watkins\tutorials\GeolocatorService\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.csprojResolveAssemblyReference.cache
